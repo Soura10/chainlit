@@ -1,2 +1,5 @@
 chainlit
-
+notebook
+ipywidgets
+tqdm
+python-dotenv
