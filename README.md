@@ -12,7 +12,9 @@ chainlit hello
 
 ```
 
-git init
+```
+
+ git init
     2  conda create -p env python=3.8 
     3  source activate base
     4  clear
@@ -23,3 +25,6 @@ git init
     9  clear
    10  touch .gitignore
    11  history
+
+
+```
