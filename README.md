@@ -15,7 +15,7 @@ chainlit hello
 ```
 
  git init
-    2  conda create -p env python=3.8 
+    2  conda create -p env python=3.9
     3  source activate base
     4  clear
     5  bash init_setup.sh
